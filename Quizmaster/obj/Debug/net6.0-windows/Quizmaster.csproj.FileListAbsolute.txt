@@ -154,3 +154,21 @@ C:\Users\SINGER\source\repos\Quizmaster - Copy - Copy\Quizmaster\obj\Debug\net6.
 C:\Users\SINGER\source\repos\Quizmaster - Copy - Copy\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.dll
 C:\Users\SINGER\source\repos\Quizmaster - Copy - Copy\Quizmaster\obj\Debug\net6.0-windows\refint\Quizmaster.dll
 C:\Users\SINGER\source\repos\Quizmaster - Copy - Copy\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.pdb
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.csproj.AssemblyReference.cache
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.Accessibility.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.AccessibilityCplAdminLib.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.AcrobatAccessLib.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.AcroBrokerLib.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.ActiveDs.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.QuartzTypeLib.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.csproj.ResolveComReference.cache
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.Form1.resources
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.Form2.resources
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.Form3.resources
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.Form4.resources
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.Form7.resources
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.csproj.GenerateResource.cache
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\refint\Quizmaster.dll
+C:\Users\livin\OneDrive\Desktop\Project_Emergency\Quizmaster\obj\Debug\net6.0-windows\Quizmaster.pdb
